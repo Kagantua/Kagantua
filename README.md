@@ -1,4 +1,4 @@
-​                                                 Hello, I am Kagantua 👏🏻
+<center> Hello, I am Kagantua 👏🏻 </center>
 [![GitHub Followers](https://img.shields.io/github/followers/Kagantua?label=follower%20github&style=flat-square)](https://github.com/Kagantua)
 
 <img align='left' src="https://profile-counter.glitch.me/Kagantua/count.svg" width="200">
