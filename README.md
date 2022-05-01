@@ -1,6 +1,6 @@
-![](https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311913581.gif)
+![](https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif)
 
-<center> Hello, I am Kagantua 👏🏻
+#  🙋 Hello, I am Kagantua 👏🏻
 
 We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.
   
