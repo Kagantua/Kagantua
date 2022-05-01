@@ -8,7 +8,10 @@ We're making the world a better place. Through constructing elegant hierarchies 
 
 
 <img align='left' src="https://profile-counter.glitch.me/Kagantua/count.svg" width="200">
-  
+
+&nbsp;
+
 ![](https://github-profile-trophy.vercel.app/?username=Kagantua&column=7&margin-w=10&margin-h=15)
+
 
 ![](https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202111021926704.png)
