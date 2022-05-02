@@ -1,17 +1,25 @@
-![](https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif)
+<p align="center"> <img align='center' src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"> </p>
 
 #  🙋 Hello, I am Kagantua 👏🏻
 
-We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.
+<p align="center">我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+
+<p align="center">We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
   
-我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。
 
 
-<img align='left' src="https://profile-counter.glitch.me/Kagantua/count.svg" width="200">
+
+<p align="center"> <img align='center' src="https://profile-counter.glitch.me/Kagantua/count.svg" > </p>
 
 &nbsp;
 
-![](https://github-profile-trophy.vercel.app/?username=Kagantua&row=1&column=6)
+<p align="center"><img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=Kagantua&theme=dark"></p>
+
+&nbsp;
+
+
+<p align="center"><img align='center' src="https://github-profile-trophy.vercel.app/?username=Kagantua&row=1&column=6"></p>
+
 
 
 ![](https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202111021926704.png)
