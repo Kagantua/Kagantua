@@ -18,8 +18,8 @@
 &nbsp;
 
 
-<p align="center"><img align='center' src="https://github-profile-trophy.vercel.app/?username=Kagantua&row=1&column=6"></p>
+<p align="center"><img align='center' src="https://github-profile-trophy.vercel.app/?username=Kagantua&theme=nord&row=1&column=6"></p>
 
-
+![](https://raw.githubusercontent.com/Kagantua/Kagantua/main/assets/github-contribution-grid-snake.svg)
 
 ![](https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202111021926704.png)
